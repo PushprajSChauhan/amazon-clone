@@ -27,7 +27,7 @@
 .border {
   border: 2px transparent;
   border-radius: 2px;
-  padding: 2rem;
+  padding: 0.5rem;
 }
 
 .border:hover {
